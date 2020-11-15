@@ -5,9 +5,7 @@
  # How to reach me 📫: <img align="left" width="200" height="150" src="https://i.pinimg.com/originals/b0/7b/1b/b07b1b0a409393857ec025afa54ab60f.gif?raw=true">
 - Let's discuss here <a href="https://t.me/rn6p_brasil"> Tulip br Group</a> 🏓
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jefinhodatnt&show_icons=true&hide_border=true" />
-
-</details>
