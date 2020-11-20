@@ -6,9 +6,9 @@
 - Let's discuss here <a href="https://t.me/rn6p_brasil"> Tulip br Group</a> 🏓
 
 
-  <summary>:zap: GitHub Stats</summary>
+<center>  <summary>:zap: GitHub Stats</summary>
 <img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="2200" height="120">
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-3f0mzl7c4.vercel.app/api?username=jefinhodatnt&show_icons=true&hide_border=true" /> <br>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-3f0mzl7c4.vercel.app/api?username=jefinhodatnt&show_icons=true&hide_border=true" /> <br><center>
  
   
 <img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="2200" height="120">
