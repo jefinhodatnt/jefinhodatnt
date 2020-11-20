@@ -7,5 +7,5 @@
 
 
   <summary>:zap: GitHub Stats</summary>
-<img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="700" height="120">
+<img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="1700" height="120">
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jefinhodatnt&show_icons=true&hide_border=true" />
