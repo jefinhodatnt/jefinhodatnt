@@ -10,9 +10,10 @@
 <img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="2200" height="120">
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jefinhodatnt&show_icons=true&hide_border=true" /> <br>
  <a href= "https://github.com/anuraghazra/github-readme-stats">
-  <img align = " center " src = " https://github-readme-stats.vercel.app/api/pin/?username=jefinhodatnt&repo=github-readme-stats " />
+  
+<img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="2200" height="120">
+<img align = " center " src = " https://github-readme-stats.vercel.app/api/pin/?username=jefinhodatnt&repo=github-readme-stats " />
 </a>
 <a href= "https://github.com/anuraghazra/convoychat">
   <img align = " center " src = " https://github-readme-stats.vercel.app/api/pin/?username=jefinhodatnt&repo=convoychat " />
 </a>
-<img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="2200" height="120">
