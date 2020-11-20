@@ -7,6 +7,6 @@
 
 
   <summary>:zap: GitHub Stats</summary>
-<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">
+<img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="64" height="64">
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jefinhodatnt&show_icons=true&hide_border=true" />
-<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">  
+<img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="64" height="64">  
