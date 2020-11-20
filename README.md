@@ -9,4 +9,6 @@
   <summary>:zap: GitHub Stats</summary>
 <img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="2200" height="120">
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jefinhodatnt&show_icons=true&hide_border=true" /> <br>
+  [![Atlan's github stats](https://github-readme-stats.vercel.app/api?username=jefinhodatnt&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/jefinhodatnt)
+
 <img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="2200" height="120">
