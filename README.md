@@ -8,7 +8,3 @@
 
 <summary>:zap: GitHub Stats</summary>
 <img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="2200" height="120">
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-3f0mzl7c4.vercel.app/api?username=jefinhodatnt&show_icons=true&hide_border=false" /> <br>
- 
-  
-<img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="2200" height="120">
