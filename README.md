@@ -7,5 +7,7 @@
 
 
 <summary>:zap: GitHub Stats</summary>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <img src="https://media1.giphy.com/media/cge8dKZt0qkjFWomTW/giphy.gif" width="2200" height="120">
+
+
+[![shakil's github status](https://github-readme-stats.vercel.app/api?username=mdkaiom95&show_icons=true&count_private=true&hide_border=false&title_color=eb0029&icon_color=eb0029&include_all_commits=true)
